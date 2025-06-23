@@ -12,7 +12,7 @@ Hay alguna relacion en base al tiempo y el numero de aprobados y reprobados, en 
 
 ![alt text](image-1.png)
 
-> PE1 Plazo Edicion 1, PE2 Plazo Edicion 2 (En ambas detallar dias y semanas). Conjunto de barras agrupadas en Aprobados y Reprobados, claro, en Porcentaje.
+> PE1 Plazo Edicion 1, PE2 Plazo Edicion 2 (En ambas detallar dias y semanas). Conjunto de barras agrupadas en Aprobados y Reprobados, claro, en Porcentaje. Tambien lo que se puede agregar es analizar los dos plazos entre la Edicion 2, porque se cerro dos veces, entonces, ver si al haber extendido mas el plazo cuanto en porcentaje aumento.
 
 Hay alguna tendencia en subir o decrementar proporcionalmente el numero de estudiantes totalmente inactivos en base al numero de estudiantes inscritos? (Practicamente ver si entre mas inscritos hay mas porcentaje de estudiantes que tienen un cero absoluto)
 
